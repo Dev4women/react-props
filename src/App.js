@@ -20,7 +20,7 @@ function App() {
       </Child>
 
       <Profile
-      fullName="Fayza Yaiche-Temam"
+      fullName="Fayza Y.T / Dev4Women"
       profession="Developper"
       bio="Student in GoMyCode"
       handleName={handleName}>
